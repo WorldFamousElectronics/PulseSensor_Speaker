@@ -2,9 +2,9 @@
 
 <p style="float: left;"><strong><img alt="" src="https://github.com/WorldFamousElectronics/PulseSensor_Speaker/blob/master/Speaker.jpg" style="float: left;" width="315" height="317" />
 <div><iframe width="640" height="390" src="https://www.youtube.com/embed/G7v-ekaPkDE" frameborder="0" allowfullscreen=""></iframe></div>
-<p> </p>
+
 <p>Here's a list of materials for this tutorial.</p>
-<ul>
+
 <ul>
 <li>Pulse Sensor Amped</li>
 <li>Arduino UNO</li>
