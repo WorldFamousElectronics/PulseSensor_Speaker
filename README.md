@@ -16,4 +16,4 @@
 <li>A breadboard and some jumper wires</li>
 </ul>
 </ul>
-<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0100/6632/files/Speaker_CU_grande.jpg?4712366587572406487" style="float: none;" /></p>
+<p style="text-align: center;"><img alt="" src="https://github.com/WorldFamousElectronics/PulseSensor_Speaker/blob/master/SpeakerCircuit.jpg" style="float: none;" /></p>
