@@ -17,3 +17,4 @@ Here's a quick project using <strong>Pulse Sensor </strong>with an LED and<stro
 </ul>
 <p style="text-align: center;"><img alt="" src="https://github.com/WorldFamousElectronics/PulseSensor_Speaker/blob/master/SpeakerCircuit.jpg" style="float: none;" /></p>
 <p> </p>
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
