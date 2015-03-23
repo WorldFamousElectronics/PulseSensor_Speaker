@@ -11,8 +11,6 @@ Here's a quick project using <strong>Pulse Sensor </strong>with an LED and<stro
 <li>1K Resistor</li>
 <li>470 ohm Resistor</li>
 <li>10uF Capacitor</li>
-</ul>
-<ul>
 <li>A breadboard and some jumper wires</li>
 </ul>
 <p style="text-align: center;"><img alt="" src="https://github.com/WorldFamousElectronics/PulseSensor_Speaker/blob/master/SpeakerCircuit.jpg" style="float: none;" /></p>
