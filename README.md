@@ -1,6 +1,6 @@
 <strong>Pulse Sensor with a 'hospital style beep' and LED </strong>
 <p></p>
-<a href="http://pulsesensor.com/pages/pulse-sensor-speaker-tutorial"><strong>http://pulsesensor.com/pages/pulse-sensor-speaker-tutorial </strong></a>
+<a href="http://pulsesensor.com/pages/pulse-sensor-speaker-tutorial">http://pulsesensor.com/pages/pulse-sensor-speaker-tutorial </a>
 <p style="float: right;"><strong><img alt="" src="https://github.com/WorldFamousElectronics/PulseSensor_Speaker/blob/master/Speaker.jpg" style="float: right;" width="315" height="317" /> </strong></p>
 <div><iframe width="640" height="390" src="https://www.youtube.com/embed/G7v-ekaPkDE" frameborder="0" allowfullscreen=""></iframe></div>
 <p> </p>
